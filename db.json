@@ -1,60 +1,58 @@
-{
-  "comentarios": [
-        {
-            username: "Fernandinho",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/793840955460609.CsUzsNWdDmFcd8chaWzV_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Teste Comentário",
-        },
-        {
-            username: "Alvarengz",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/1192149619222565.PXjn1TPVMagaQzgkPYXW_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Teste 2 ",
-        },
-        {
-            username: "TiagoPadua",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/1198745950294634.Xh1xsflaWl7oqQrGege5_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Bom Dia",
-        },
-        {
-            username: "Leandro",
-            profile:
-                "https://ui-avatars.com/api/?name=Leandro&length=1&size=128&background=random",
-            id: "dsadsadasdsadsa",
-            comentario: "Fotinha Feia",
-        },
-        {
-            username: "Fernando",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/793840955460609.CsUzsNWdDmFcd8chaWzV_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Teste Comentário",
-        },
-        {
-            username: "Alvarengz",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/1192149619222565.PXjn1TPVMagaQzgkPYXW_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Teste 2 ",
-        },
-        {
-            username: "TiagoPadua",
-            profile:
-                "https://s3.amazonaws.com/profile_photos/1198745950294634.Xh1xsflaWl7oqQrGege5_128x128.png",
-            id: "dsadsadasdsadsa",
-            comentario: "Bom Dia",
-        },
-        {
-            username: "Leandro",
-            profile:
-                "https://ui-avatars.com/api/?name=Leandro&length=1&size=128&background=random",
-            id: "dsadsadasdsadsa",
-            comentario: "Fotinha Feia",
-        },
-    ]
-}
+[
+    {
+        "username": "Fernando",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/793840955460609.CsUzsNWdDmFcd8chaWzV_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Teste Comentário"
+    },
+    {
+        "username": "Alvarengz",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/1192149619222565.PXjn1TPVMagaQzgkPYXW_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Teste 2 "
+    },
+    {
+        "username": "TiagoPadua",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/1198745950294634.Xh1xsflaWl7oqQrGege5_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Bom Dia"
+    },
+    {
+        "username": "Leandro",
+        "profile":
+            "https://ui-avatars.com/api/?name=Leandro&length=1&size=128&background=random",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Fotinha Feia"
+    },
+    {
+        "username": "Fernando",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/793840955460609.CsUzsNWdDmFcd8chaWzV_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Teste Comentário"
+    },
+    {
+        "username": "Alvarengz",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/1192149619222565.PXjn1TPVMagaQzgkPYXW_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Teste 2 "
+    },
+    {
+        "username": "TiagoPadua",
+        "profile":
+            "https://s3.amazonaws.com/profile_photos/1198745950294634.Xh1xsflaWl7oqQrGege5_128x128.png",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Bom Dia"
+    },
+    {
+        "username": "Leandro",
+        "profile":
+            "https://ui-avatars.com/api/?name=Leandro&length=1&size=128&background=random",
+        "id": "dsadsadasdsadsa",
+        "comentario": "Fotinha Feia"
+    }
+]
